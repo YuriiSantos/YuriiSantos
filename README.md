@@ -4,7 +4,9 @@
 
 ### 👾 About Me
 
-<h4> Engenheiro mecatrônico e especialista em Data Science & IA, com experiência em desenvolvimento de APIs, aplicações web e projetos de Machine Learning. Trabalho com Python, R, React.js, AWS, Docker e Big Data, transformando dados em soluções reais.</h4>
+<h4> Full Stack Development & UI/UX Design: Proficient in building complete applications with responsive frontends 
+and functional backends, focused on user-friendly experiences. Application Structure & API Integration: Skilled in 
+setting up application structures and integrating APIs for smooth data flow between systems.</h4>
 
 ---
 
@@ -18,11 +20,11 @@
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-#### Linguagens
+#### Linguagens de Programação
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="38" height="38" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
 </p>
 
 </div>
@@ -32,29 +34,24 @@
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-##### Data Engineering & Big Data
+#### Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="29" height="29" alt="Apache Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="29" height="29" alt="Hadoop"/>
-  <img src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" width="29" height="29" alt="Pentaho"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="29" height="29" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="29" height="29" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="29" height="29" alt="MongoDB"/>
-</p>
-
-</div>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
-
-#### API & Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38" height="38" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" height="38" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38" height="38" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap"/>
+</p>
+
+</div>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+
+#### Backend/Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" alt="Postman"/>
 </p>
 
 </div>
@@ -66,13 +63,12 @@
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-#### Machine Learning & AI
+#### Bancos de Dados
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="33" height="33" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="33" height="33" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="33" height="33" alt="PyTorch"/>
-  <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" width="33" height="33" alt="MLFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="33" height="33" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="33" height="33" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="33" height="33" alt="Cassandra"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="33" height="33" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="33" height="33" alt="PostgreSQL"/>
 </p>
 
 </div>
@@ -82,11 +78,12 @@
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-#### Cloud & DevOps
+#### Ferramentas de Desenvolvimento
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" alt="Figma"/>
 </p>
 
 </div>
@@ -96,10 +93,10 @@
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-#### Data Visualization
+#### Sistemas & Modelagem
 <p align="center">
-  <img src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1757048995996" width="45" height="45" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="38" height="38" alt="UML"/>
 </p>
 
 </div>
@@ -109,8 +106,6 @@
 </table>
 
 </div>
-
----
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=YuriiSantos&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&hide=issues,contribs&bg_color=00000000">
