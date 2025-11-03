@@ -52,6 +52,7 @@ setting up application structures and integrating APIs for smooth data flow betw
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="38" height="38" alt="Insomnia"/>
 </p>
 
 </div>
@@ -63,12 +64,13 @@ setting up application structures and integrating APIs for smooth data flow betw
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-#### Bancos de Dados
+#### Bancos de Dados & Mensageria
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="33" height="33" alt="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="33" height="33" alt="Cassandra"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="33" height="33" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="33" height="33" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="33" height="33" alt="RabbitMQ"/>
 </p>
 
 </div>
@@ -78,25 +80,27 @@ setting up application structures and integrating APIs for smooth data flow betw
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
-#### Ferramentas de Desenvolvimento
+#### DevOps & Build Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="35" height="35" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="35" height="35" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35" height="35" alt="npm"/>
+</p>
+
+</div>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+
+#### Testes & Design
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="38" height="38" alt="JUnit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" alt="Figma"/>
-</p>
-
-</div>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
-
-#### Sistemas & Modelagem
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="38" height="38" alt="UML"/>
 </p>
 
 </div>
